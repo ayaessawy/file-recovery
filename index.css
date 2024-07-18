@@ -1,0 +1,41 @@
+*{margin: 0;padding: 0;}
+body{margin: 0;padding: 0;font-family: "Lato", sans-serif;}
+.body{width: 100%;height: auto;}
+
+.navbar{background-color: rgb(225, 161, 13);height: 80px !important;}
+.logo{width:30% ;float: left;height: auto;}
+.logo p{color: #fff;font-size: 30px;font-weight: 700;}
+.navbar ul{width: 50%;float: left;height: auto;}
+.navbar ul li{color: #fff; padding-left: 5%;display: inline-block !important;
+  margin-top: 2%;list-style-type: none !important;}
+
+.navbar ul li a{color: #fff;text-decoration: none;}
+
+/******************************************************/
+.banner-download{width: 100%;float: left;height: 650px;background-color:#385C72;}
+.dashed-container{width: 80%;margin:10% auto ;border: 8px dashed rgb(225, 161, 13);height: 400px;}
+.dashed-container .folde-icon img{display: block;width: 20%;height: auto;
+  ;margin: 2% auto;}
+
+.dashed-container{width: 80%;margin:10% auto ;border: 8px dashed rgb(225, 161, 13);height: 400px;}
+.dashed-container  h2{color: rgb(225, 161, 13);
+
+text-align: center;font-size: 23px;}
+
+.banner-download button    {width: 140px;height:50px;background-color: rgb(225, 161, 13);color: #fff;
+  border: 0;border-radius: 20px;display: block;margin:6% auto;}
+  /********************************************************************/
+  .download-version{width: 100%;float: left;height: 540px;background-color: #fff;margin-top: 3%;}
+  .download-version h2,.download-version h1{color: #0E142B;font-size: 25px;margin-top: 3%;
+  font-weight: 600;padding-left:6%}
+ .download-version p{width: 80%;padding-left: 10%;}
+ .download-version a{display: block; padding-left: 11%;}
+ .download-version .links,.download-version .image{width: 100%;float: left;}
+ .download-version .links,.download-version h1{padding-left: 16%;}
+.download-version .image img{width:80%;margin-top: -18%}
+ /*********************************************/
+ .footer{width: 100%;float: left;height: 80px;background-color: #385C72;}
+ .footer p{color: #fff;font-size: 0.95em;
+  padding: 1.5em;
+  text-align: center;
+}
